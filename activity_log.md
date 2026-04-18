@@ -7,3 +7,4 @@
 - [2026-04-18T11:17:53Z] perf: optimize loop for better performance
 - [2026-04-18T17:16:48Z] test: add unit tests for core module
 - [2026-04-18T10:09:32Z] style: apply consistent code formatting
+- [2026-04-18T14:48:59Z] fix: handle null pointer exception
